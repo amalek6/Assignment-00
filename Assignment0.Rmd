@@ -140,10 +140,10 @@ to do the computation with each element.
 Use the standard R function length
 in the specification of the counter. a
 )
-
+```r
 func= function(arg1,arg2 )
 {
   vector[i]=arg1[i];
   for(i in length(vector))
   {}}
-
+```
